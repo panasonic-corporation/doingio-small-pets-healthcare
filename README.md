@@ -19,4 +19,4 @@
 愛情を持って接する大切な小動物に、ヘルスケアデバイスを実際に使っているシーンを想像しながら、モノづくりを通じて、今の困難な状況を乗り越えるための一助になればと考えています。
 
 ## 作り方
-[M5StickC_SGP30の作り方](https://github.com/panasonic-corporation/dio-ventilation-alert/wiki/CO2%E6%8F%9B%E6%B0%97%E3%82%A2%E3%83%A9%E3%83%BC%E3%83%88%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9-%5BM5StickC_SGP30%5D)
+[小動物ヘルスケアデバイスの作り方](https://github.com/panasonic-corporation/doingio-small-pets-healthcare/wiki/%E5%B0%8F%E5%8B%95%E7%89%A9%E3%83%98%E3%83%AB%E3%82%B9%E3%82%B1%E3%82%A2%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9)
