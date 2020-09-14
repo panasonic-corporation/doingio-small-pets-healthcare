@@ -1,4 +1,3 @@
-Language : jp | [en](./README_en.md)
 # D+IO Project
 
 ### [D+IO プロジェクト詳細](https://panasonic.co.jp/design/flf/works/dio/)
