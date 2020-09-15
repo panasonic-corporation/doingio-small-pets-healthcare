@@ -22,7 +22,7 @@
 ### [小動物ヘルスケアデバイスの作り方](https://github.com/panasonic-corporation/doingio-small-pets-healthcare-docs)
 
 
-
+<br><br><br><hr>
 ## ライブラリ及びライセンス
 
 | ライブラリ名| 配布元 | コピーライトまたは貢献者 | ライセンス |
