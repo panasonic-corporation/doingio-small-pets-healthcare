@@ -20,3 +20,13 @@
 
 ## 作り方
 [小動物ヘルスケアデバイスの作り方](https://github.com/panasonic-corporation/doingio-small-pets-healthcare-docs)
+
+## ライブラリ及びライセンス
+
+| ライブラリ名| 配布元 | コピーライトまたは貢献者 | ライセンス |
+|:---|:----|:----|:----|
+| Twemoji | [URL](https://twemoji.twitter.com/) | Copyright (c) 2018 Twitter, Inc and other contributors | [LICENSE](https://github.com/twitter/twemoji/blob/master/LICENSE) |
+| Montserrat(Google Fonts) | [URL](https://fonts.google.com/specimen/Montserrat#standard-styles) | [貢献者](https://github.com/JulietaUla/Montserrat/blob/master/CONTRIBUTORS.txt) | [LICENSE](https://fonts.google.com/specimen/Montserrat#license) |
+| SHT3X | [URL](https://github.com/m5stack/M5Stack/tree/master/examples/Unit/ENVII_SHT30_BMP280) | Copyright (c) 2017 M5Stack | [LICENSE](https://github.com/m5stack/M5Stack/blob/master/LICENSE) |
+| WifiTwitter | [URL](http://arduino-tweet.appspot.com/)<br>[URL](https://m5stack-build.hatenablog.com/entry/2020/02/27/234505) | Copyright (c) 2011 NeoCat | [LICENSE](https://github.com/NeoCat/Arduno-Twitter-library/blob/master/LICENSE.txt) |
+| ClosedCube_TCA9548A | [URL](https://github.com/m5stack/M5StickC/tree/master/examples/Unit/PaHUB) | Copyright (c) 2020 M5Stack | [LICENSE](https://github.com/m5stack/M5StickC/blob/master/LICENSE) |
