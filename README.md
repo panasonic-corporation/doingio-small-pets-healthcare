@@ -19,7 +19,9 @@
 愛情を持って接する大切な小動物に、ヘルスケアデバイスを実際に使っているシーンを想像しながら、モノづくりを通じて、今の困難な状況を乗り越えるための一助になればと考えています。
 
 ## 作り方
-[小動物ヘルスケアデバイスの作り方](https://github.com/panasonic-corporation/doingio-small-pets-healthcare-docs)
+### [小動物ヘルスケアデバイスの作り方](https://github.com/panasonic-corporation/doingio-small-pets-healthcare-docs)
+
+
 
 ## ライブラリ及びライセンス
 
