@@ -166,6 +166,11 @@ void UIViewController::saveLogData()
 
 void UIViewController::reload()
 {
-    if(displayData.isToday == true) //
+    if(displayData.isToday == true)//表示が今日ならば表示更新
+    {
         displayDataController.today();
+        for (int i = 0; i < NUMBER_OF_SENSOR; i++) {
+            uiCells[i].updateGraf();
+        }
+    }
 }
