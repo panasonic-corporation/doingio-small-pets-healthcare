@@ -30,10 +30,9 @@ void MotionCountController::update() {
       pinDownTime = millis();
       motionTimeMsec += (pinDownTime - pinUpTime);
 
-
-      nowDayDataRef->sensorsValue[channel] = (int)motionTimeMsec / 60000;
-
     }
+
+    nowDayDataRef->sensorsValue[channel] = (int)motionTimeMsec / 60000;
 
     //debug output
     Serial.print("Motion pin: ");
