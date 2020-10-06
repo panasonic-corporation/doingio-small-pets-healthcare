@@ -51,15 +51,15 @@ void UIGraphView::draw()
 
     for (int i = 0; i < 7; i++) 
     {
-        if(uiCellModelRef -> displayDataRef -> displayWeekly[i].sensorsValue[channel] > SENSOR_VALUE_NULL)
+        float fWeeklyValue = uiCellModelRef -> displayDataRef -> displayWeekly[i].sensorsValue[channel];
+        if(fWeeklyValue > graphMax) fWeeklyValue = graphMax;
+        if(fWeeklyValue > SENSOR_VALUE_NULL)
         {
-            graphY[i] = graphBottom - (int)(graphStd * (uiCellModelRef -> displayDataRef -> displayWeekly[i].sensorsValue[channel] - graphMin + 0.5));
-
+            graphY[i] = graphBottom - (int)(graphStd * (fWeeklyValue - graphMin + 0.5));
         }else
         {
            graphY[i] = graphBottom; 
         }
-        
     }
 
     for(int i = 0; i < 6; i++)

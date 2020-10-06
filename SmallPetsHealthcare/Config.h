@@ -56,7 +56,7 @@
 #define CH4 3
 #define CH4_TITLE "WHEEL(x)"
 #define CH4_GRAPH_MIN 0
-#define CH4_GRAPH_MAX 5000
+#define CH4_GRAPH_MAX 50000
 #define CH4_FS_MIN 1000
 #define CH4_FS_MAX 2000
 #define CH4_FG_MIN 2000
@@ -66,7 +66,7 @@
 #define CH5 4
 #define CH5_TITLE "HOUSE(x)"
 #define CH5_GRAPH_MIN 0
-#define CH5_GRAPH_MAX 100
+#define CH5_GRAPH_MAX 2000
 #define CH5_FS_MIN 5
 #define CH5_FS_MAX 20
 #define CH5_FG_MIN 20
