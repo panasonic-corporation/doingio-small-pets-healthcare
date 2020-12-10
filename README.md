@@ -2,7 +2,7 @@
 
 ### [D+IO プロジェクト詳細](https://panasonic.co.jp/design/flf/works/doing_io/)
 
-<a href="https://panasonic.co.jp/design/flf/works/doing_io/"><img width="500px" src="https://panasonic.co.jp/design/flf/assets/img/works/doing_io/doing_io_icon.jpg"></a>
+<a href="https://panasonic.co.jp/design/flf/works/doing_io/"><img width="500px" src="https://panasonic.co.jp/design/flf/assets/img/works/doing_io/doing_io_white_main.jpg"></a>
 
 ## SmallPetsHealthcare(小動物ヘルスケアデバイス)
 
